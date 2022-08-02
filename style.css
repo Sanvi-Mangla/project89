@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(249, 154, 205);
+}
+
+login1 , login2
+{
+    color: azure;
+    border-radius: 10cm;
+}
+
+h3 , label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50;
+    font-weight: 400;
+}
